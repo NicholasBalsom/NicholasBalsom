@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hi there! My name is Nicholas Balsom 👋
+I am a high school student at Corner Brook Regional High (CBRH) in Newfoundland.
 
+- 🌱 I’m currently learning Advanced programming in Python 3214 @CBRH
 <!--
 **NicholasBalsom/NicholasBalsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
