@@ -1,5 +1,5 @@
 ## Hi there! My name is Nicholas Balsom 👋
-I am a high school student at Corner Brook Regional High (CBRH) in Newfoundland.
+I am a high school student at Corner Brook Regional High (CBRH)
 
 - 🌱 I’m currently learning Advanced programming in Python 3214 @CBRH
 <!--
