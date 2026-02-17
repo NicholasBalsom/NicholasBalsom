@@ -1,5 +1,5 @@
 ## Hi there! My name is Nicholas Balsom 👋
-
+- 🌱 I’m currently learning - ROS2, Astro, Ardunio.
 <!--
 **NicholasBalsom/NicholasBalsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
