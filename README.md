@@ -1,4 +1,5 @@
 ## Hi there! My name is Nicholas Balsom 👋
+- 🔭 Currently working on [ROV controller software](https://github.com/Western-Wave-Robotics/Software-2026) @ Western Wave Robotics
 - 🌱 I’m currently learning - Astro, Ardunio, PyTorch, ROS2
 <!--
 **NicholasBalsom/NicholasBalsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
