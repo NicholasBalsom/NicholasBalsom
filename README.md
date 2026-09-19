@@ -1,6 +1,6 @@
 ## Hi there! My name is Nicholas Balsom 👋
-- 🔭 Currently working with Sidus Robotics
-- 🌱 I’m currently learning - Astro, Ardunio, ultralytics YOLO, ROS2
+- 🔭 Currently working on rover control software @ Sidus Robotics
+- 🌱 I’m currently learning - ROS 2
 <!--
 **NicholasBalsom/NicholasBalsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
