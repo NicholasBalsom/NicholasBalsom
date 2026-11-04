@@ -1,6 +1,8 @@
 ## Hi there! My name is Nicholas Balsom 👋
 - 🔭 Currently working on rover control software @ Sidus Robotics
 - 🌱 I’m currently learning - ROS 2
+
+Check out my [Portfolio](https://nbalsom.notion.site/nbalsom-me-4053bfc815188078b74aedc38d9bd6b3?source=copy_link)
 <!--
 **NicholasBalsom/NicholasBalsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
